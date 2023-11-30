@@ -18,6 +18,8 @@ dependencies:
   get_it: ^7.6.4
   http: ^1.1.2
   rxdart: ^0.27.7
+  meta: any
+  bloc: ^8.1.2
 
 dev_dependencies:
   flutter_test:
